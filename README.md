@@ -2,7 +2,6 @@
 # 🔐  Performance Analysis of Explainable Deep Learning-Based Intrusion Detection Systems for IoT Networks: A Systematic Review 
 
 This project presents a systematic review of performance analysis of explainable deep learning-based intrusion detection systems for IoT networks. It analyzes the trade-offs among detection accuracy, computational overhead, and explanation quality. Following the PRISMA methodology, 129 peer-reviewed studies published between 2018 and 2025 were systematically analyzed to address key research questions related to XAI technique trade-offs, deep learning ar-chitecture performance, post-deployment XAI evaluation practices, and deployment bottlenecks.
-.
 
 ---
 
@@ -36,5 +35,5 @@ This project presents a systematic review of performance analysis of explainable
 
 ## 📄 License
 
-This project is for academic and research purposes. 
+This project is for academic and research purposes only. 
 
