@@ -11,7 +11,7 @@ This project presents a systematic review of performance analysis of explainable
 - **Findings**:
   - (RQ1) that while post-hoc methods like SHAP and LIME do not affect the underlying model's detection accuracy, they impose a severe and often excessive computational overhead, introducing significant latency and energy costs that hinder real-time deployment on IoT devices. 
   - (RQ2) reveals that while complex models like autoencoders and hybrids achieve superior detection rates, lightweight CNNs offer a more pragmatic balance for resource-constrained environments.
-  - (RQ3) uncovered a major methodological shortcoming, which is an overwhelming reliance on subjective, qualitative plausibility checks, with an absence of rigorous quantitative, human-centric, or application-based validation, leaving the practical reliability of explanations unproven.
+  - (RQ3) uncovered a major methodological shortcoming, which is an overwhelming reliance on subjective, qualitative plausibility checks, with an absence of human-centric or application-based validation, leaving the practical reliability of explanations unproven.
   - (RQ4) presents some bottlenecks such as the computational cost of post-hoc XAI, the lack of efficiency reporting, and the scarcity of realistic IoT-domain datasets, and proposed mitigations such as model-specific explanations, efficiency benchmarking standards, and collaborative dataset creation.
 
 ---
